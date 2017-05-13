@@ -40,7 +40,7 @@ setup(
     ],
     extras_require={
         'dev': [
-            'ipython>=5.3,<6',
+            'ipython>=6,<7',
         ],
         'test': [
             'pytest>=3.0,<4',
