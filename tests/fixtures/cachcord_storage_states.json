@@ -1,0 +1,41 @@
+[{
+    "last_update": "2017-05-10T03:23:49.361925+02:00"
+},{
+    "last_update": "2017-05-10T03:23:49.361925+02:00",
+    "components": {
+      "8": {
+        "link": "http://dummy.tld",
+        "group_id": 1,
+        "tags": {"": ""},
+        "enabled": true,
+        "deleted_at": null,
+        "status_name": "Operational",
+        "updated_at": "2017-04-16 15:55:45",
+        "name": "Member Roster",
+        "id": 8,
+        "status": 1,
+        "order": 2,
+        "description": "", 
+        "created_at": "2017-02-20 03:32:56"
+      }
+    }
+},{
+    "last_update": "2017-05-10T03:23:49.361925+02:00",
+    "components": {
+      "8": {
+        "link": "http://dummy.tld",
+        "group_id": 1,
+        "tags": {"": ""},
+        "enabled": true,
+        "deleted_at": null,
+        "status_name" : "Major Outage",
+        "updated_at": "2017-04-16 15:55:45",
+        "name": "Member Roster",
+        "id": 8,
+        "status": 4,
+        "order": 2,
+        "description": "", 
+        "created_at": "2017-02-20 03:32:56"
+      }
+    }
+}]

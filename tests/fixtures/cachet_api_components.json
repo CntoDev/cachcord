@@ -1,0 +1,153 @@
+{
+   "meta" : {
+      "pagination" : {
+         "total" : 8,
+         "links" : {
+            "previous_page" : null,
+            "next_page" : null
+         },
+         "current_page" : 1,
+         "per_page" : 20,
+         "count" : 8,
+         "total_pages" : 1
+      }
+   },
+   "data" : [
+      {
+         "description" : "",
+         "status" : 1,
+         "deleted_at" : null,
+         "group_id" : 2,
+         "updated_at" : "2017-05-08 01:42:09",
+         "tags" : {
+            "" : ""
+         },
+         "name" : "Private Server",
+         "status_name" : "Operational",
+         "order" : 3,
+         "enabled" : true,
+         "created_at" : "2017-02-20 02:32:17",
+         "id" : 4,
+         "link" : ""
+      },
+      {
+         "status" : 1,
+         "deleted_at" : null,
+         "description" : "",
+         "updated_at" : "2017-05-08 01:42:10",
+         "group_id" : 2,
+         "status_name" : "Operational",
+         "tags" : {
+            "" : ""
+         },
+         "name" : "Mods Repository",
+         "link" : "",
+         "id" : 7,
+         "created_at" : "2017-02-20 02:34:10",
+         "enabled" : true,
+         "order" : 5
+      },
+      {
+         "status_name" : "Operational",
+         "tags" : {
+            "" : ""
+         },
+         "name" : "TeamSpeak Server",
+         "id" : 2,
+         "link" : "",
+         "created_at" : "2017-02-20 02:26:28",
+         "enabled" : true,
+         "order" : 4,
+         "status" : 1,
+         "deleted_at" : null,
+         "description" : "ts.dummy.tld",
+         "group_id" : 2,
+         "updated_at" : "2017-05-08 21:10:43"
+      },
+      {
+         "tags" : {
+            "" : ""
+         },
+         "name" : "Development Server",
+         "status_name" : "Major Outage",
+         "enabled" : true,
+         "order" : 7,
+         "created_at" : "2017-02-20 02:32:58",
+         "link" : "",
+         "id" : 6,
+         "description" : "",
+         "deleted_at" : null,
+         "status" : 4,
+         "group_id" : 2,
+         "updated_at" : "2017-03-15 20:27:09"
+      },
+      {
+         "updated_at" : "2017-03-22 08:22:30",
+         "group_id" : 1,
+         "status" : 1,
+         "deleted_at" : null,
+         "description" : "Enjin community portal",
+         "link" : "http://dummy.tld",
+         "created_at" : "2017-02-20 02:24:48",
+         "id" : 1,
+         "order" : 1,
+         "enabled" : true,
+         "status_name" : "Operational",
+         "name" : "Website",
+         "tags" : {
+            "" : ""
+         }
+      },
+      {
+         "deleted_at" : null,
+         "status" : 1,
+         "description" : "",
+         "updated_at" : "2017-02-21 00:36:12",
+         "group_id" : 3,
+         "status_name" : "Operational",
+         "name" : "Utility Server",
+         "tags" : {
+            "" : ""
+         },
+         "id" : 5,
+         "link" : "",
+         "created_at" : "2017-02-20 02:32:38",
+         "enabled" : false,
+         "order" : 8
+      },
+      {
+         "group_id" : 2,
+         "updated_at" : "2017-04-09 23:02:04",
+         "deleted_at" : null,
+         "status" : 3,
+         "description" : "Self-hosted OCAP installation",
+         "created_at" : "2017-02-20 02:30:00",
+         "link" : "http://dummy.tld",
+         "id" : 3,
+         "order" : 6,
+         "enabled" : true,
+         "status_name" : "Partial Outage",
+         "name" : "OCAP",
+         "tags" : {
+            "" : ""
+         }
+      },
+      {
+         "updated_at" : "2017-04-16 15:55:45",
+         "group_id" : 1,
+         "description" : "",
+         "status" : 1,
+         "deleted_at" : null,
+         "enabled" : true,
+         "order" : 2,
+         "id" : 8,
+         "link" : "http://dummy.tld",
+         "created_at" : "2017-02-20 03:32:56",
+         "tags" : {
+            "" : ""
+         },
+         "name" : "Member Roster",
+         "status_name" : "Operational"
+      }
+   ]
+}

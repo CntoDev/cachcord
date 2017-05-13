@@ -1,0 +1,10 @@
+language: python
+python:
+  - "3.5"
+#  - "3.6"  # Commented out until pylint support gets implemented, https://github.com/PyCQA/pylint/issues/1072
+install:
+  - "pip install -e '.[dev,test]'"
+  - "pip install codacy-coverage"
+script: "./run_tests.sh"
+after_script:
+  - "python-codacy-coverage -r coverage.xml"

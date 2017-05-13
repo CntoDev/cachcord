@@ -1,0 +1,68 @@
+{
+   "data" : [
+      {
+         "updated_at" : "2017-02-21 00:36:12",
+         "deleted_at" : null,
+         "id" : 5,
+         "group_id" : 3,
+         "status_name" : "Operational",
+         "enabled" : false,
+         "order" : 8,
+         "description" : "",
+         "link" : "",
+         "status" : 1,
+         "name" : "Utility Server",
+         "tags" : {
+            "" : ""
+         },
+         "created_at" : "2017-02-20 02:32:38"
+      },
+      {
+         "enabled" : true,
+         "order" : 6,
+         "status_name" : "Partial Outage",
+         "deleted_at" : null,
+         "id" : 3,
+         "group_id" : 2,
+         "updated_at" : "2017-04-09 23:02:04",
+         "name" : "OCAP",
+         "tags" : {
+            "" : ""
+         },
+         "created_at" : "2017-02-20 02:30:00",
+         "status" : 3,
+         "link" : "http://dummy.tld/",
+         "description" : "Self-hosted OCAP installation"
+      },
+      {
+         "created_at" : "2017-02-20 03:32:56",
+         "tags" : {
+            "" : ""
+         },
+         "name" : "Member Roster",
+         "status" : 1,
+         "link" : "http://dummy.tld",
+         "description" : "",
+         "order" : 2,
+         "enabled" : true,
+         "status_name" : "Operational",
+         "id" : 8,
+         "group_id" : 1,
+         "deleted_at" : null,
+         "updated_at" : "2017-04-16 15:55:45"
+      }
+   ],
+   "meta" : {
+      "pagination" : {
+         "total" : 8,
+         "total_pages" : 2,
+         "current_page" : 2,
+         "count" : 3,
+         "links" : {
+            "next_page" : null,
+            "previous_page" : "https://dummy.tld/api/v1/components?per_page=5&page=1"
+         },
+         "per_page" : 5
+      }
+   }
+}

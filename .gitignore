@@ -1,0 +1,13 @@
+.*.sw*
+.venv
+__pycache__/
+.eggs/
+dist/
+build/
+*.egg-info/
+.ropeproject
+.coverage
+coverage.xml
+.cache/
+/cachcord.ini
+*.pickle3
