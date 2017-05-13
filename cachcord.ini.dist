@@ -1,0 +1,7 @@
+[Cachet]
+api_url=http://status.domain.tld/api/v1
+api_token=aaaaaaaaaaaaaaaaaaaa
+
+[Discord]
+webhook_url = https://discordapp.com/api/webhooks/000000000000000000/aaaaaaaaaaaa-aaaaaaaaaaaaaaaaaaa-aaaaaaa-aaaaaaaaaaaaaaaaaaaa_aaaaaa
+message_template = **{symbol} Component `{component[name]}`'s status has been changed to `{component[status_name]}` (http://status.domain.tld)**
